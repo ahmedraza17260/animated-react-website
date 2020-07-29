@@ -49,10 +49,10 @@ const Contact = () => {
                                     required className="form-control" id="exampleInputEmail1" placeholder="Enter Your Mobile Number " />
                             </div>
                             <div className="form-group mb-3">
-                                <label for="exampleInputEmail1">Email address</label>
+                                <label for="exampleInputEmail1">Email Address</label>
                                 <input type="email"
                                     name="email" value={data.email} onChange={InputEvent}
-                                    required className="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" />
+                                    required className="form-control" placeholder="Enter Your Email Address " id="exampleInputEmail1" aria-describedby="emailHelp" />
                                 <small id="emailHelp" className="form-text text-muted">We'll never share your email with anyone else.</small>
                             </div>
                             <div className="form-group mb-3">

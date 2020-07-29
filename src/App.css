@@ -33,6 +33,8 @@ body {
 
   background-color: #74ebd5 !important;
   background-image: linear-gradient(90deg, #74ebd5 0%, #9face6 100%) !important;
+  box-shadow: black 5px 5px 5px 5px;
+  padding: 4px !important;
 
 }
 
@@ -148,10 +150,11 @@ body {
   color: black !important;
   /* opacity: ; */
   font-weight: bolder;
+  font-family: 'Mali', cursive !important;
   font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", sans-serif;
   padding: 4px !important;
   font-size: x-large !important;
-  box-shadow: black 5px 5px 5px 5px;
+  box-shadow: black 5px 5px 5px 5px !important;
   padding: 1px !important;
   background: radial-gradient(circle,
       rgba(238, 174, 202, 1) 17%,
