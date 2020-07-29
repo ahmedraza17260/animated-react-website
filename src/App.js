@@ -3,7 +3,6 @@ import './App.css';
 import './index.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.bundle';
-// import Switch from 'react-bootstrap/esm/Switch';
 import Home from "./Home"
 import { Switch, Route, Redirect } from 'react-router-dom';
 import About from './About';
